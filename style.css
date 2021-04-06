@@ -118,6 +118,9 @@ body {
   display: block;
   width: 270px;
 }
+.logo-link {
+  display: block;
+}
 
 .menu {
   display: none;
